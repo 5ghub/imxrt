@@ -15,7 +15,7 @@
 				"url": "https://github.com/slavaten/rt1062/blob/master/ArduinoCore-imxrt.zip?raw=true",				
 				"archiveFileName": "ArduinoCore-imxrt.zip",
 				"checksum": "SHA-256:39ED64FB9EB500AD91624E07C4CBCDCD648D554ECD59FB95B2851EC4345F932C",
-				"size": "(30872665",
+				"size": "30872665",
 				"boards": [{
 					"name": "IMXRT1062"
 				}],
