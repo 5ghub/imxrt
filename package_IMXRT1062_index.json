@@ -1,12 +1,11 @@
 {
   "packages": [
     {
+      "name": "5G HUB",
       "maintainer": "5G HUB",
       "websiteURL": "null",
       "email": "null",
-      "name": "IMXRT1062",
       "platforms": [
-				
 			{
 				"name": "IMXRT1062 (NXP 32-bits ARM Cortex-M7) Boards",
 				"architecture": "imxrt",
