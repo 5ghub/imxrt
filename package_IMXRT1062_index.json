@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "5G_HUB",
-      "maintainer": "5G_HUB",
+      "name": "5G_IMXRT1062",
+      "maintainer": "5G_IMXRT1062",
       "websiteURL": "",
       "email": "",
       "platforms": [
@@ -11,7 +11,7 @@
 				"architecture": "imxrt",
 				"category": "Contributed",
 				"version": "1.0.0",
-				"url": "https://github.com/5ghub/imxrt/blob/main/ArduinoCore-imxrt.zip?raw=true",
+				"url": "https://github.com/5ghub/imxrt/raw/main/ArduinoCore-imxrt.zip",				
 				"archiveFileName": "ArduinoCore-imxrt.zip",
 				"checksum": "SHA-256:39ED64FB9EB500AD91624E07C4CBCDCD648D554ECD59FB95B2851EC4345F932C",
 				"size": "30872665",
@@ -22,12 +22,12 @@
 				],
 				"toolsDependencies": [
 					{
-						"packager": "5G_HUB",
+						"packager": "5G_IMXRT1062",
 						"version": "7-2017q4",
 						"name": "arm-none-eabi-gcc"
 					},
 					{
-						"packager": "5G_HUB",
+						"packager": "5G_IMXRT1062",
 						"version": "1.9.1-seeeduino",
 						"name": "bossac"
 					}
