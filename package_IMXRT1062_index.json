@@ -1,11 +1,10 @@
 {
   "packages": [
     {
-      "name": "5G HUB",
-      "maintainer": "5G HUB",
-      "websiteURL": "null",
-      "email": "null",
-      "name": "IMXRT1062",
+      "name": "5G_HUB",
+      "maintainer": "5G_HUB",
+      "websiteURL": "",
+      "email": "",
       "platforms": [
 			{
 				"name": "IMXRT1062 (NXP 32-bits ARM Cortex-M7) Boards",
@@ -16,16 +15,19 @@
 				"archiveFileName": "ArduinoCore-imxrt.zip",
 				"checksum": "SHA-256:39ED64FB9EB500AD91624E07C4CBCDCD648D554ECD59FB95B2851EC4345F932C",
 				"size": "30872665",
-				"boards": [{
+				"boards": [
+					{
 					"name": "IMXRT1062"
-				}],
-				"toolsDependencies": [{
-						"packager": "5G HUB",
+					}
+				],
+				"toolsDependencies": [
+					{
+						"packager": "5G_HUB",
 						"version": "7-2017q4",
 						"name": "arm-none-eabi-gcc"
 					},
 					{
-						"packager": "5G HUB",
+						"packager": "5G_HUB",
 						"version": "1.9.1-seeeduino",
 						"name": "bossac"
 					}
@@ -33,10 +35,12 @@
 			}
 	      
       ],
-      "tools": [{
+      "tools": [
+	      {
 				"name": "arm-none-eabi-gcc",
 				"version": "7-2017q4",
-				"systems": [{
+				"systems": [
+					{
 						"host": "arm-linux-gnueabihf",
 						"url": "https://files.seeedstudio.com/arduino/tools/res/arm-none-eabi-gcc/7-2017q4/gcc-arm-none-eabi-7-2019-q4-major-linuxarm.tar.bz2",
 						"archiveFileName": "gcc-arm-none-eabi-7-2019-q4-major-linuxarm.tar.bz2",
@@ -83,7 +87,8 @@
 			{
 				"name": "bossac",
 				"version": "1.9.1-seeeduino",
-				"systems": [{
+				"systems": [
+					{
 						"host": "i686-linux-gnu",
 						"url": "https://files.seeedstudio.com/arduino/tools/res/bossac/1.9.1-seeeduino/bossac-1.9.1-seeeduino-linux.tar.gz",
 						"archiveFileName": "bossac-1.9.1-seeeduino-linux.tar.gz",
