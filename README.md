@@ -9,11 +9,15 @@ The EVK board is a rich board that can be used for a variety of smart and 5G app
 This Repository is compatible with Arduino IDE 2.1.1
 
 # Software and Tools Included with the Board
--ArduinoExamples: Contains different Arduino examples and sketches to use with the board.
+-Bootloader: Contains *.hex file to flash tot he IMXRT board to work as Arduino-compatible.
+
+-imxrt-Core.zip: Contains the board manager (used with Arduino IDE).
 
 -IMXRT1062_Arduino.zip: Contains the library (used with Arduino IDE).
 
--ArduinoCore-imxrt.zip: Contains the board manager (used with Arduino IDE).
+-IMXRT1062_Arduino.zip: Contains the library (used with Arduino IDE).
+
+- Kit sketches: Folder contains more Arduino sketches for sensors and hardwrae devices
 
 # How to Use Arduino IDE with the Board
 
