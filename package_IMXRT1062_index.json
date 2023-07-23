@@ -11,10 +11,10 @@
 				"architecture": "imxrt",
 				"category": "Contributed",
 				"version": "1.0.0",
-				"url": "https://github.com/5ghub/imxrt/raw/main/ArduinoCore-imxrt.zip",				
+				"url": "https://github.com/5ghub/imxrt/raw/main/imxrt-Core.zip",				
 				"archiveFileName": "ArduinoCore-imxrt.zip",
-				"checksum": "SHA-256:5693a5cb0050e7da26dd185da53111b2c95f7ddac5c0b9310c6973effe50dc99",
-				"size": "31611392",
+				"checksum": "SHA-256:74112d09ea10cba5f0586279c94bd9e26ea62e58a15e81a581d55f3161953e0d",
+				"size": "31462698",
 				"boards": [
 					{
 					"name": "IMXRT1062"
