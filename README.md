@@ -17,7 +17,7 @@ This Repository is compatible with Arduino IDE 2.1.1
 
 -IMXRT1062_Arduino.zip: Contains the library (used with Arduino IDE).
 
-- Kit sketches: Folder contains more Arduino sketches for sensors and hardwrae devices
+-Kit sketches: Folder contains more Arduino sketches for sensors and hardwrae devices
 
 # How to Use Arduino IDE with the Board
 
