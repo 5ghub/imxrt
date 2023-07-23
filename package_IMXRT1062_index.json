@@ -13,8 +13,8 @@
 				"version": "1.0.0",
 				"url": "https://github.com/5ghub/imxrt/raw/main/imxrt-Core.zip",				
 				"archiveFileName": "imxrt-Core.zip",
-				"checksum": "SHA-256:a5658f773ae772aa028280ea7923035b900e2dd37865aa2d6db8a3541243731a",
-				"size": "31646380",
+				"checksum": "SHA-256:5c45ff8dda0d12a6773894574799547e1d73c6204b2f2f6b99c50cb652bb01c2",
+				"size": "31554528",
 				"boards": [
 					{
 					"name": "IMXRT1062"
