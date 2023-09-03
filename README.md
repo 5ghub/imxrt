@@ -17,9 +17,9 @@ This Repository is compatible with Arduino IDE 2.1.1
 
 -Kit sketches: Folder contains more Arduino sketches for sensors and hardwrae devices
 
-- SerialFlash: Contains File system for the Flash memory
+-SerialFlash: Contains File system for the Flash memory
 
-- u-blox_GNSS: Contains examples for using the u-blox SAM-M8Q GNSS module
+-u-blox_GNSS: Contains examples for using the u-blox SAM-M8Q GNSS module
 
 # How to Use Arduino IDE with the Board
 
